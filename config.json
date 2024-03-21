@@ -1,6 +1,7 @@
 {
     "fabric_version": "0.15.7",
     "hyclyint_version": "1.0.0",
+    "hyclyint_launcher_version": "0.1.1-BETA",
     "required_mods": [
         {
             "name": "fabric-api",
