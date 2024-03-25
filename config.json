@@ -18,6 +18,66 @@
         {
             "name": "lithium",
             "version": "mc1.20.4-0.12.1"
+        },
+        {
+            "name": "indium",
+            "version": "1.0.30+mc1.20.4"
+        },
+        {
+            "name": "noisium",
+            "version": "1.0.2+mc1.20.x"
+        },
+        {
+            "name": "entityculling",
+            "version": "1.6.4-1.20.4"
+        },
+        {
+            "name": "moreculling",
+            "version": "0.22.1-1.20.1+"
+        },
+        {
+            "name": "sodium-extra",
+            "version": "mc1.20.4-0.5.4"
+        },
+        {
+            "name": "modernfix",
+            "version": "5.15.0+mc1.20.4"
+        },
+        {
+            "name": "ferrite-core",
+            "version": "6.0.3-fabric"
+        },
+        {
+            "name": "c2me-fabric",
+            "version": "0.2.0+alpha.11.61+1.20.4"
+        },
+        {
+            "name": "ebe",
+            "version": "0.9+1.20"
+        },
+        {
+            "name": "moddetectionpreventer",
+            "version": "1.2.0"
+        },
+        {
+            "name": "continuity",
+            "version": "3.0.0-beta.4+1.20.2"
+        },
+        {
+            "name": "dynamic-fps",
+            "version": "3.4.2"
+        },
+        {
+            "name": "threadtweak",
+            "version": "0.1.2+mc1.20.4"
+        },
+        {
+            "name": "immediatelyfast",
+            "version": "1.2.10+1.20.4-fabric"
+        },
+        {
+            "name": "iris",
+            "version": "1.6.17+1.20.4"
         }
     ]
 }
