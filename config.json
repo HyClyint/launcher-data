@@ -78,10 +78,6 @@
         {
             "name": "cloth-config",
             "version": "13.0.121+fabric"
-        },
-        {
-            "name": "starlight",
-            "version": "1.1.3+1.20.4"
         }
     ]
 }
